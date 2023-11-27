@@ -10,7 +10,7 @@
 ### 🧑🏻‍💻 Member
 <table>
   <tr>
-     <td align="center"><a href="https://github.com/suddiyo"><img src="https://github.com/suddiyo.png" width="100px;" alt=""/><br/><sub><b>안수경</b></sub></a><br/></td>
+     <td align="center"><a href="https://github.com/ahnsugyeong"><img src="https://github.com/ahnsugyeong.png" width="100px;" alt=""/><br/><sub><b>안수경</b></sub></a><br/></td>
      <td align="center"><a href="https://github.com/Han-Jeong"><img src="https://github.com/Han-Jeong.png" width="100px;" alt=""/><br/><sub><b>이정한</b></sub></a><br/></td>
      <td align="center"><a href="https://github.com/sikkzz"><img src="https://github.com/sikkzz.png" width="100px;" alt=""/><br/><sub><b>김준식</b></sub></a><br/></td>
       <td align="center"><a href="https://github.com/teamWaggle"><img src="https://github.com/teamWaggle.png" width="100px;" alt=""/><br/><sub><b>윤예빈</b></sub></a><br/></td>
