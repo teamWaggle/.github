@@ -28,7 +28,7 @@
 </table>
 <br>
 
-### 🛠️ Stacks
+## 🛠️ Stacks
 <br>
 <br>
 <div align=center>
@@ -59,6 +59,6 @@
 
 <br>
 
-### ☁️ Software Architecture
+## ☁️ Software Architecture
 
 ![sft architecture](https://github.com/suddiyo/Waggle/assets/69452755/c3e03d65-48f4-4984-bc3e-64ffc30bc900)
